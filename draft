@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Conference Project: History Of Maths across Continents</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #FFFFFF;
+      margin-left: 50px;
+      margin-right: 50px;
+    }
+
+    h2 {
+      font-family: Calibri;
+    }
+
+    h3 {
+      margin-top: 30px;
+    }
+
+    hr {
+      margin-top: 20px;
+      margin-bottom: 20px;
+      border: 0;
+      border-top: 1px solid #dddddd;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 70%;
+      margin-bottom: 20px;
+    }
+
+    th,
+    td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+
+    p.ex1 {
+      margin-left: 50px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <img src="WebBannner2023.png" alt="Banner" width="900" height="300">
+  <h1>ENG0018 Computer Laboratory 2023/24</h1>
+  <h2>Student URN: 6805241</h2>
+  <hr>
+  <h2>Conference Project: History Of Maths across Continents</h2>
+  <hr>
+
+  <h3 id="Abstract">Abstract</h3>
+  <p class="ex1">
+    The history of mathematics is a rich tapestry that spans across time and cultures, reflecting the intellectual and scientific achievements of humanity. This abstract provides an overview of a comprehensive exploration of the history of mathematics
+    across the world, highlighting the evolution of mathematical thought, its cross-cultural influences, and the profound impact it has had on various societies.
+    The narrative begins in ancient Mesopotamia and Egypt, where the earliest recorded mathematical concepts emerged, including arithmetic, geometry, and algebra. It then delves into the world of classical Greece, showcasing the pioneering
+    works of mathematicians like Euclid, Pythagoras, and Archimedes, whose insights laid the foundation for modern mathematical principles. The narrative also unfolds in the Indian subcontinent, where ancient scholars developed concepts such
+    as the numeral system and the concept of zero, which revolutionized mathematics and led to breakthroughs in astronomy and calculus.
+  </p>
+  <hr>
+
+  <h3 id="Introduction">Introduction</h3>
+  <p class="ex1">
+    The history of mathematics is a captivating journey that transcends time and borders, reflecting the remarkable ingenuity of human thought and its pervasive impact on the development of societies worldwide. From the ancient civilizations of Mesopotamia
+    and Egypt, where rudimentary arithmetic and geometric principles were first cultivated, to the innovative contributions of classical Greece, the mathematical lineage extends across continents, revealing a fascinating interplay of ideas
+    and influences. The emergence of revolutionary concepts like zero and the numeral system in India, the profound advancements in China, and the preservation and expansion of knowledge during the Islamic Golden Age all added vibrant threads
+    to the intricate tapestry of mathematical history. As we traverse through the Renaissance in Europe and delve into the modern era, we witness the global exchange of mathematical ideas and their transformative effect on our understanding
+    of the world. This exploration of the history of mathematics across the world illuminates the shared intellectual heritage that transcends cultural boundaries and continues to shape our contemporary society in profound ways.
+  </p>
+  <hr>
+
+</body>
+
+</html>
